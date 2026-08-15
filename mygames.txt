@@ -1,0 +1,29 @@
+--- GAME 1 ---
+Initial Deal:
+Player: [10, 6] : 16
+Dealer: [10, 4] : 14
+
+Dealer busted! Player wins.
+Final State:
+Player: [10, 6] : 16
+Dealer: [10, 4, 11] : 25
+
+--- GAME 2 ---
+Initial Deal:
+Player: [7, 4] : 11
+Dealer: [10, 10] : 20
+
+Final State:
+Player: [7, 4, 10] : 21
+Dealer: [10, 10] : 20
+Player wins!
+
+--- GAME 3 ---
+Initial Deal:
+Player: [6, 2] : 8
+Dealer: [8, 10] : 18
+
+Final State:
+Player: [6, 2, 10] : 18
+Dealer: [8, 10] : 18
+Push (Tie)!
